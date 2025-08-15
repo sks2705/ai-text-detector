@@ -9,4 +9,5 @@ app_file: app.py
 pinned: false
 ---
 
+Check out!
 https://huggingface.co/spaces/sks2705/ai-text-detector
